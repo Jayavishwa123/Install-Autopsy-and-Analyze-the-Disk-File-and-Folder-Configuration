@@ -39,7 +39,7 @@ View the file and folder hierarchy in the left-hand tree panel.
 ### Step 6:
 Export or recover files if required for the investigation.
 
-## PROGRAM(Windows)
+## PROCEDURES
 
 1. Download Autopsy from autopsy.com.
 2. Install and launch the application.
@@ -52,6 +52,19 @@ Export or recover files if required for the investigation.
 
 ## OUTPUT:
 File and Folder Configuration Analysis Results
+<img width="1018" height="658" alt="Screenshot 2026-08-19 202311" src="https://github.com/user-attachments/assets/6194cdbf-32b5-4535-9466-4b2b29038373" />
+
+<img width="1920" height="1020" alt="2026-08-21" src="https://github.com/user-attachments/assets/e0c3f29c-0534-44cf-980d-e5dc12883f47" />
+
+<img width="635" height="319" alt="Screenshot 2026-08-21 202103" src="https://github.com/user-attachments/assets/bbc10370-f8c3-4df6-a4ae-63fbf7cf45f8" />
+
+<img width="1467" height="1014" alt="Screenshot 2026-08-21 222738" src="https://github.com/user-attachments/assets/b36eef48-c3ad-4e4c-8415-6de7dd67a668" />
+
+<img width="1463" height="1011" alt="image" src="https://github.com/user-attachments/assets/eb22f34f-a0db-403a-9af0-e1494f0a66b9" />
+
+<img width="1663" height="918" alt="Screenshot 2026-08-21 223919" src="https://github.com/user-attachments/assets/294761de-6200-48fa-84ac-14ac6bd3ba56" />
+
+
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
